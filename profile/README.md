@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo-4x3.png" alt="Dowzzy Logo" width="680" />
+  <img src="./logo-4x3.png" alt="Dowzzy Logo" width="680" style="background-color: #e8e8e8;border-radius: 10px;" />
 </p>
 
 # Dowzzy — Website Monitoring SaaS
