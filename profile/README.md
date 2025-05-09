@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./297F8C9C-77AF-41A2-B02C-7C1CBC38BFE1.png" alt="Dowzzy Logo" width="120" />
+  <img src="./297F8C9C-77AF-41A2-B02C-7C1CBC38BFE1.png" alt="Dowzzy Logo" width="480" />
 </p>
-
-# Dowzzy — Website Monitoring SaaS
 
 # Dowzzy — Website Monitoring SaaS
 
