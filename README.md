@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile/logo-4x3.png" alt="Dowzzy Logo" width="680" />
+  <img src="./profile/logo-trasparent-radius.png" alt="Dowzzy Logo" width="680" />
 </p>
 
 # Dowzzy — Website Monitoring SaaS
