@@ -1,4 +1,10 @@
-# 👁️ Dowzzy — Website Monitoring SaaS
+<p align="center">
+  <img src="./297F8C9C-77AF-41A2-B02C-7C1CBC38BFE1.png" alt="Dowzzy Logo" width="120" />
+</p>
+
+# Dowzzy — Website Monitoring SaaS
+
+# Dowzzy — Website Monitoring SaaS
 
 **Dowzzy** is a modern SaaS platform designed to monitor website availability and notify users instantly in case of downtime. Whether you're a developer, DevOps team, or business owner, Dowzzy helps you stay informed and in control — even while you sleep.
 
